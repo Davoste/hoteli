@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "374082068086",
+    "project_id": "hotelini",
+    "storage_bucket": "hotelini.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374082068086:android:7cf495b5147a3777714957",
+        "android_client_info": {
+          "package_name": "com.example.next_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJJ4gSxXSA2r7bhxXEXdSjJhrrE2krtY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
